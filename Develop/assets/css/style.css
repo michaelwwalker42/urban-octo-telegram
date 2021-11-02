@@ -57,6 +57,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* main content section styles */
 
 .float-left {
     float: left;
@@ -73,6 +74,8 @@ section.content {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* benefits section styles */
 
 .benefits {
     margin-right: 20px;
@@ -186,6 +189,8 @@ section.content {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer styles */
 
 footer {
     padding: 30px;
